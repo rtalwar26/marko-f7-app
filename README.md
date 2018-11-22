@@ -11,5 +11,5 @@ npm start
 ## build
 
 ```shell
-npm build
+npm run build
 ```
